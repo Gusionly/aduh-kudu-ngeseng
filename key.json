@@ -1,7 +1,5 @@
 {
-  "users": [
-    {
-      "password": "LynzzSukaBerbagi"
-    }
-  ]
+  "status": "active",
+  "expiry": "2025-03-01"
 }
+
